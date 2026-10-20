@@ -56,7 +56,7 @@ Seu objetivo é auxiliar profissionais de Tecnologia da Informação, administra
 
 1. Faça o download dos arquivos disponíveis neste repositório.
 2. Extraia ou organize os arquivos em um mesmo diretório.
-3. Execute `executar_auditoria_armazenamento.bat` com dois cliques.
+3. Execute `StorageAudit.bat` com dois cliques.
 4. Selecione uma unidade disponível ou informe manualmente o caminho desejado.
 5. Aguarde a conclusão da varredura.
 6. Abra o relatório HTML gerado para consultar os resultados.
